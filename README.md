@@ -1,8 +1,5 @@
-# [Fortune House User Guide](https://anthonyxcode.github.io/fortune-house-user-guide/)
+<h1> 目錄 </h1>
 
-# 目錄
-- [Fortune House User Guide](#fortune-house-user-guide)
-- [目錄](#目錄)
 - [設定](#設定)
 - [用戶](#用戶)
 - [產品](#產品)
@@ -12,6 +9,7 @@
 - [司機](#司機)
 - [庫存](#庫存)
 - [送貨](#送貨)
+
 # 設定
 
 > 用戶更改系統語言及登出系統
